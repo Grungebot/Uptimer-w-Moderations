@@ -1,2 +1,6 @@
 `language = node.js
 run = bash node.sh`
+
+
+bot still on progress...
+i will keep adding commands...
